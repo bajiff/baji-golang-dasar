@@ -14,7 +14,7 @@ func latihanTiga(){
 	// ? Logic
 	if totalTagihan > tresholdUp {
 		fmt.Printf("Dapet discount 10%% \n")
-	} else if totalTagihan > tresholdDown && totalTagihan < tresholdUp {
+	} else if totalTagihan > tresholdDown {
 		fmt.Printf("Dapet discount 5%% \n")
 	} else {
 		fmt.Print("Tidak dapat discount \n")
