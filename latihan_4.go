@@ -7,10 +7,10 @@ func latihanEmpat() {
 	for i := 1; i <= 10; i++ {
 		if i == 4 {
 			fmt.Print("Pesanan 4 dibatalkan pelanggan, dilewati!\n")
-			continue 
+			continue
 		} else if i == 8 {
 			fmt.Print("Bahan baku habis di pesanan 8, dapur ditutup!\n")
-			break 
+			break
 		} else {
 			fmt.Printf("Memasak pesanan ke-%d\n", i)
 		}

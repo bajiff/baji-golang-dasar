@@ -2,8 +2,9 @@
 package main
 
 func main() {
-	latihanEmpat()
 	// latihanSatu()
 	// latihanDua()
 	// latihanTiga()
+	// latihanEmpat()
+	latihanLima()
 }

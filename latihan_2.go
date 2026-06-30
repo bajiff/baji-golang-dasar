@@ -9,5 +9,5 @@ func latihanDua() {
 
 	checkStokBeras := stokBeras > 0
 	fmt.Printf("Pelanggan sekarang %v\n", pelanggan)
-fmt.Printf("Stok beras: %d, apakah stok beras lebih dari 0? %t\n ", stokBeras,checkStokBeras)
+	fmt.Printf("Stok beras: %d, apakah stok beras lebih dari 0? %t\n ", stokBeras, checkStokBeras)
 }
