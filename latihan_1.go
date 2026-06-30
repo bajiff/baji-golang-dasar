@@ -1,3 +1,4 @@
+// ! latihan_1.go
 package main
 
 import "fmt"

@@ -1,3 +1,4 @@
+// ! latihan_6.go
 package main
 
 import (
