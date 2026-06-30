@@ -33,16 +33,16 @@ func latihanLima() {
 	for i, namaBumbu := range kumpulanBumbu {
 		fmt.Printf("Bumbu ke-%d adalah %s\n", i, namaBumbu)
 	}
-	
-	pesanMejaSatu := []string{"Ketoprak","Mie Goreng", "Mie Samyang"}
+
+	pesanMejaSatu := []string{"Ketoprak", "Mie Goreng", "Mie Samyang"}
 	pesanMejaSatu = append(pesanMejaSatu, "Martabak Ramona")
-	
+
 	for i, namaPesanan := range pesanMejaSatu {
 		fmt.Printf("Nama Pesanan ke ke-%d Adalah: %s\n", i+1, namaPesanan)
 	}
-	
-	daftarHarga := map[string]int{"Seblak":10000,"Capcai":2000,"Es Teh":1500, "Makaroni Basah": 5000}
-	
-	fmt.Printf("Harga %s adalah: %d\n","Seblak", daftarHarga["Seblak"])
+
+	daftarHarga := map[string]int{"Seblak": 10000, "Capcai": 2000, "Es Teh": 1500, "Makaroni Basah": 5000}
+
+	fmt.Printf("Harga %s adalah: %d\n", "Seblak", daftarHarga["Seblak"])
 
 }
