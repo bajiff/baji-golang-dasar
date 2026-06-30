@@ -32,7 +32,7 @@ func latihanTujuh() {
 		Tunjangan: 40000000,
 		Usia:      21,
 		Skills:    []string{"Javascript", "ReactJS", "Tailwindcss", "Axios", "Golang"},
-  }
+	}
 	fmt.Println(&pegawaiBaru)
 	kerjaLembur(&pegawaiBaru)
 	fmt.Println(&pegawaiBaru.Energi)
