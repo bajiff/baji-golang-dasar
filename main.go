@@ -7,5 +7,6 @@ func main() {
 	// latihanTiga()
 	// latihanEmpat()
 	// latihanLima()
-	latihanEnam()
+	// latihanEnam()
+	latihanTujuh()
 }
