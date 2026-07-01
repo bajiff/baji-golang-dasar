@@ -9,5 +9,6 @@ func main() {
 	// latihanLima()
 	// latihanEnam()
 	// latihanTujuh()
-	latihanDelapan()
+	// latihanDelapan()
+	latihanSembilan()
 }
