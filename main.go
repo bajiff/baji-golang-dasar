@@ -10,5 +10,6 @@ func main() {
 	// latihanEnam()
 	// latihanTujuh()
 	// latihanDelapan()
-	latihanSembilan()
+	// latihanSembilan()
+	ujianFundamentalSatu()
 }
